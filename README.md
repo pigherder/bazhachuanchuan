@@ -1,4 +1,4 @@
-巴扎串串 - 你的桌面个性化浮窗管家
+巴扎串串 - 你的桌面个性化浮窗管家 by 江南牧猪人
 
 ![img](https://github.com/pigherder/bazhachuanchuan/blob/main/E.gif)
 
@@ -12,3 +12,5 @@
 纯粹美化，不影响任何程序： 巴扎串串专注于桌面视觉美化，作为桌面装饰工具，它不会干扰你的游戏或专业软件运行，享受纯粹的个性化体验！
 
 注： “巴扎串串”本质是一款将任何图片“贴”在桌面的美化装饰软件，功能不限于游戏“大巴扎”，旨在为你的桌面带来无限可能。
+
+![img](https://github.com/pigherder/bazhachuanchuan/blob/main/D.gif)
