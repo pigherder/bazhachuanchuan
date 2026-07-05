@@ -1,4 +1,6 @@
-巴扎串串 - 你的桌面个性化浮窗管家 by 江南牧猪人
+巴扎串串 - 多图悬浮置顶助手 by 江南牧猪人
+
+具体介绍见小黑盒
 
 ![img](https://github.com/pigherder/bazhachuanchuan/blob/main/E.gif)
 
