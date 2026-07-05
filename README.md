@@ -1,6 +1,6 @@
 巴扎串串 - 你的桌面个性化浮窗管家
 
-![E.gif](https://github.com/pigherder/bazhachuanchuan/blob/main/E.gif)
+![img](https://github.com/pigherder/bazhachuanchuan/blob/main/E.gif)
 
 核心特色一览：
 
