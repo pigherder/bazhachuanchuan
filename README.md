@@ -1,5 +1,8 @@
 巴扎串串 - 你的桌面个性化浮窗管家
 
+
+<img width="545" height="504" alt="E" src="https://github.com/user-attachments/assets/b135bee4-6d5f-4aa7-934c-efe014086387" />
+
 核心特色一览：
 
 图片随心贴，桌面即画廊： 轻松将任意静态图（PNG, JPG等）或动态图（GIF, WebP等）置顶悬浮在桌面。只需将文件放入 assets 文件夹，即可在软件界面自由选择、管理。
