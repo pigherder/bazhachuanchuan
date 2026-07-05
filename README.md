@@ -1,7 +1,7 @@
 巴扎串串 - 你的桌面个性化浮窗管家
 
+<img width="545" height="504" alt="image" src="https://github.com/user-attachments/assets/55add9b1-f7aa-4c5d-9082-39d7ce876aba" />
 
-<img width="545" height="504" alt="E" src="https://github.com/user-attachments/assets/b135bee4-6d5f-4aa7-934c-efe014086387" />
 
 核心特色一览：
 
